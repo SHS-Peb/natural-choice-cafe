@@ -42,3 +42,20 @@ a, a:visited {
 main{
     background-color: #000000;
 }
+
+#opening-hours {
+    color: #ebebeb;
+    padding: 20px;
+    text-align: center;
+    list-style: none;
+}
+
+#opening-hours h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#opening-hours p {
+    font-size: 18px;
+    margin: 5px 0;
+}
